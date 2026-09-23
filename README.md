@@ -92,7 +92,7 @@ int main()
 
 ## Output
 
-![Output Image](/output.png)
+![Output Image](WhatsApp Image 2026-09-23 at 2.13.40 PM.jpeg)
 
 
 
