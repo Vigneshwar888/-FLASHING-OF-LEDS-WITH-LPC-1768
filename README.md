@@ -90,7 +90,9 @@ int main()
  
 # Output:
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-23 at 2 13 40 PM" src="https://github.com/user-attachments/assets/6555e520-1d78-43bd-bef0-9da405cccd9f" />
+## Output
+
+![Output Image](/output.png)
 
 
 
