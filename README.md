@@ -92,7 +92,8 @@ int main()
 
 ## Output
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-23 at 2 13 40 PM" src="https://github.com/user-attachments/assets/7962dc1e-dcd9-4a51-81a1-dae257b1a482" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/0f8d1a73-7515-4b0f-b87a-d5c06e5aedc5" />
+
 
 
 
